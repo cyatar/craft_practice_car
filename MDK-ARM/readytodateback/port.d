@@ -1,0 +1,12 @@
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+readytodateback\port.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+readytodateback\port.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+readytodateback\port.o: ../Core/Inc/FreeRTOSConfig.h
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+readytodateback\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
